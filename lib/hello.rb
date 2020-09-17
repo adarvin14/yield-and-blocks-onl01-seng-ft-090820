@@ -1,6 +1,6 @@
 def hello_t
   hello_t.each do |name|
-    "Hello"
+    "Hi, #{name}""
 end
 
 # call your method here!
