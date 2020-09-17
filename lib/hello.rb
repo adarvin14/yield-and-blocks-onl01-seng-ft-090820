@@ -1,6 +1,5 @@
-def hello_t
-  hello_t.each do |name|
-    "Hi, #{name}"
+def hello_t(array)
+ 
 end
 
 # call your method here!
